@@ -1,0 +1,1 @@
+https://towardsdatascience.com/geopandas-installation-the-easy-way-for-windows-31a666b3610f
